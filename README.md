@@ -11,7 +11,7 @@ I plan on adding to this as time goes on as I belive this is the only active one
 ***
 ## Colour reference
 
-I am using the colour reference from [joshdick's onedark.vim repo](https://github.com/joshdick/onedark.vim) as I believe their colours represent onedark the best: \
+I am using the colour reference from [joshdick's onedark.vim repo](https://github.com/joshdick/onedark.vim) as I believe their colours represent onedark the best:
 
 ![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark-reference.png)
 
@@ -19,3 +19,5 @@ Not all of the colours are 100% accurate as some of the ImageGoNorded images con
 
 
 Heres an example of onedark being applied to a non onedark image (using ImageGoNord):
+
+![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.jpg)
