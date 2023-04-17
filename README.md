@@ -25,4 +25,10 @@ Heres an example of onedark being applied to a non onedark image (using ImageGoN
 
 ![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.jpg)
 
-psa: if you have any wallpapers (that have been onedarked accordingly and look pretty cool) and want to contribute please let me know!
+psa: if you have any wallpapers (that have been onedarked accordingly and look pretty cool) and want to be a contributor please let me know!
+
+## Todo:
+
+- [x] Complete os wallpapers
+- [ ] Complete program wallpapers
+- [ ] ...
