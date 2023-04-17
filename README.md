@@ -17,6 +17,9 @@ I am using the colour reference from [joshdick's onedark.vim repo](https://githu
 
 Not all of the colours are 100% accurate as some of the ImageGoNorded images contain colours which aren't in the onedark colourscheme, however they would look much worse if it were so. With a fully riced setup you shouldn't notice it too much. 
 
+Update: Due to the lack of darker tones for more complex wallpapers I modify by hand, I am using the [Atom One Dark 2 Color Palette grey colours](https://www.color-hex.com/color-palette/1017620). I think these greys are the most faithful to onedark so I will use them. If you know of any others that will do the job better please let me know.
+
+![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark_grey_ref.png)
 
 Heres an example of onedark being applied to a non onedark image (using ImageGoNord):
 
