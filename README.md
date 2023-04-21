@@ -21,6 +21,8 @@ Update: Due to the lack of darker tones for more complex wallpapers I modify by 
 
 ![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark_grey_ref.png)
 
+Update 2: Also using #c8ccd4 for even lighter colours than #abb2bf
+
 Heres an example of onedark being applied to a non onedark image (using ImageGoNord):
 
 ![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.jpg)
