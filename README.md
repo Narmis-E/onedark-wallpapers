@@ -32,5 +32,6 @@ psa: if you have any wallpapers (that have been onedarked accordingly and look p
 ## Todo:
 
 - [x] Complete os wallpapers
+- [ ] Complete wm/de wallpapers
 - [ ] Complete program wallpapers
 - [ ] ...
