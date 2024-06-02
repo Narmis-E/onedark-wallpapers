@@ -2,6 +2,8 @@
 
 A collection of wallpapers colorised to fit the OneDark GTK theme, curated by myself and sourced from various platforms.
 
+See the wallpaper showcase [here](./showcase.md).
+
 ## Sources
 
 The wallpapers featured here have been sourced from:
