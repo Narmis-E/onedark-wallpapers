@@ -1,37 +1,52 @@
-# onedark-wallpapers
-A collection of wallpapers colourised to fit the onedark gtk theme (some curated by myself)
+# OneDark Wallpapers
 
-The wallpapers featured here have been found from a variety of sources including [Reddit](https://www.reddit.com/r/wallpapers/), the [r/unixporn discord wallpapers channel](https://discord.gg/unixporn), this amazing [gruvbox collelction](https://gruvbox-wallpapers.onrender.com/), (the now deceased)[ catppuccin wallpaper repo](https://web.archive.org/web/20230215022523/https://github.com/catppuccin/wallpapers) (wayback machine link should work) and the fabulous [nordic-wallpapers repo](https://github.com/linuxdotexe/nordic-wallpapers). A bunch of these wallpapers also came from various image dumps on imgur and have have been put through the onedark filter of [ImageGoNord](https://ign.schrodinger-hat.it/).
-The images here are of at least 1920x1080 and above (some as large as 5K)
+A collection of wallpapers colorised to fit the OneDark GTK theme, curated by myself and sourced from various platforms.
 
-I plan on adding to this as time goes on as I belive this is the only active onedark wallpaper repo existing thus far (I have found [this older repo](https://github.com/AbdelrhmanNile/onedark-wallpapers)).
+## Sources
 
-### If there are any wallpapers that their respectful creators which to be removed, please make an issue and I will remove them ASAP.
+The wallpapers featured here have been sourced from:
 
-***
-## Colour reference
+- [Reddit](https://www.reddit.com/r/wallpapers/)
+- [r/unixporn Discord wallpapers channel](https://discord.gg/unixporn)
+- This amazing [Gruvbox collection](https://gruvbox-wallpapers.onrender.com/)
+- The now-deceased [Catppuccin wallpaper repo](https://web.archive.org/web/20230215022523/https://github.com/catppuccin/wallpapers) (Wayback Machine link)
+- The fabulous [Nordic wallpapers repo](https://github.com/linuxdotexe/nordic-wallpapers)
 
-I am using the colour reference from [joshdick's onedark.vim repo](https://github.com/joshdick/onedark.vim) as I believe their colours represent onedark the best:
+Many wallpapers also come from various image dumps on Imgur and have been processed through the OneDark filter of [ImageGoNord](https://ign.schrodinger-hat.it/). The images here are at least 1920x1080 and above (some as large as 5K).
 
-![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark-reference.png)
+I plan on adding more wallpapers over time, as I believe this is the only active OneDark wallpaper repository. (I have found [this older repo](https://github.com/AbdelrhmanNile/onedark-wallpapers).)
 
-Not all of the colours are 100% accurate as some of the ImageGoNorded images contain colours which aren't in the onedark colourscheme, however they would look much worse if it were so. With a fully riced setup you shouldn't notice it too much. 
+### Removal Requests
 
-Update: Due to the lack of darker tones for more complex wallpapers I modify by hand, I am using the [Atom One Dark 2 Color Palette grey colours](https://www.color-hex.com/color-palette/1017620). I think these greys are the most faithful to onedark so I will use them. If you know of any others that will do the job better please let me know.
+If there are any wallpapers that their rightful creators wish to be removed, please make an issue and I will remove them ASAP.
 
-![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark_grey_ref.png)
+## Color Reference
 
-Update 2: Also using #c8ccd4 for even lighter colours than #abb2bf
+I am using the color reference from [joshdick's onedark.vim repo](https://github.com/joshdick/onedark.vim) as I believe their colors represent OneDark the best:
 
-Heres an example of onedark being applied to a non onedark image (using ImageGoNord):
+![OneDark Color Reference](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark-reference.png)
 
-![](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.jpg)
+Not all of the colors are 100% accurate, as some of the ImageGoNord-processed images contain colors not in the OneDark color scheme. However, with a fully customised setup, you shouldn't notice it too much. 
 
-psa: if you have any wallpapers (that have been onedarked accordingly and look pretty cool) and want to be a contributor please let me know!
+### Updates
 
-## Todo:
+- Due to the lack of darker tones for more complex wallpapers I modify by hand, I am using the [Atom One Dark 2 Color Palette grey colors](https://www.color-hex.com/color-palette/1017620). I think these greys are the most faithful to OneDark, so I will use them. If you know of any others that will do the job better, please let me know.
 
-- [x] Complete os wallpapers
-- [ ] Complete wm/de wallpapers
+![OneDark Grey Reference](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark_grey_ref.png)
+
+- Additionally, I am using `#c8ccd4` for even lighter colors than `#abb2bf`.
+
+Here's an example of OneDark being applied to a non-OneDark image (using ImageGoNord):
+
+![Before and After](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.jpg)
+
+### Contributions
+
+If you have any wallpapers that have been colorised to fit OneDark and look pretty cool, and you want to be a contributor, please let me know!
+
+## Todo
+
+- [x] Complete OS wallpapers
+- [ ] Complete WM/DE wallpapers
 - [ ] Complete program wallpapers
 - [ ] ...
