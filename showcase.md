@@ -7,6 +7,7 @@
 - ![od_botw_z](botw/od_botw_z.png)
 - ![od_guardian](botw/od_guardian.png)
 - ![od_stalker](botw/od_stalker.png)
+- ![od_new](botw/od_new.png)
 - ![od_hylian_crest](botw/od_hylian_crest.png)
 - ![od_master_sword](botw/od_master_sword.png)
 - ![od_ouroboros](botw/od_ouroboros.png)
