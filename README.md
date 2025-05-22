@@ -48,7 +48,7 @@ If you have any wallpapers that have been colorised to fit OneDark and look pret
 
 ## Todo
 
-- [x] Complete OS wallpapers
-- [x] Complete WM/DE wallpapers
+- [ ] Complete OS wallpapers? *This one will never be ticked..*
+- [ ] Complete WM/DE wallpapers *Did I stutter??*
 - [ ] Complete program wallpapers
 - [ ] ...
