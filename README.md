@@ -23,9 +23,9 @@ Wallpapers featured in this collection come from:
 - [r/unixporn Discord wallpapers channel](https://discord.gg/unixporn)
 - This (now archived) [Gruvbox collection](https://web.archive.org/web/20230417204544/https://gruvbox-wallpapers.onrender.com/) (via Wayback Machine)
 - The archived [Catppuccin wallpaper repo](https://web.archive.org/web/20230215022523/https://github.com/catppuccin/wallpapers) (via Wayback Machine)
-- The fabulous [Nordic wallpapers repo](https://github.com/linuxdotexe/nordic-wallpapers)
+- The [Nordic wallpapers repo](https://github.com/linuxdotexe/nordic-wallpapers)
 
-Many wallpapers were processed through the OneDark filter of [ImageGoNord](https://ign.schrodinger-hat.it/) from various Imgur dumps. All images are at least 1920×1080 resolution, with some as large as 5K.
+Many wallpapers were processed through the OneDark filter of [ImageGoNord](https://ign.schrodinger-hat.it/) from various Imgur dumps. All images are at least 1920×1080 , with some as large as 5K.
 
 ## Contributions & Requests
 Have OneDark-colorized wallpapers you'd like to contribute? Let me know!
