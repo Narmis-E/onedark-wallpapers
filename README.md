@@ -14,7 +14,7 @@ Here's an example of OneDark applied to a non-OneDark image (processed with Imag
 It retains a lot of detail, while subtly shifting the coloursheme.
 For more minimal images with less colour, the change is much more apparent:
 ![Before and After](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after_2.png)
-In this ^ case, IGN was a bit off the mark, so I'd probably touch it up by making the bg blue.
+In this ^ case, IGN was a bit off the mark, so I'd probably touch it up by making the bg blue again.
 
 ## Sources
 Wallpapers featured in this collection come from:
@@ -37,3 +37,8 @@ If you're the rightful creator of any wallpaper and wish to have it removed, ple
 ## Todo
 - [ ] Fix the [showcase gallery](./showcase.md)
 - [ ] Add more wallpapers!!!
+
+<hr>
+
+### Stargazers 🤩
+[![Stargazers over time](https://starchart.cc/Narmis-E/onedark-wallpapers.svg?variant=adaptive)](https://starchart.cc/Narmis-E/onedark-wallpapers)
