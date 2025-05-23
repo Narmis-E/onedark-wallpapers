@@ -1,21 +1,18 @@
 # OneDark Wallpapers
 
-A curated collection of wallpapers colorized to match the OneDark GTK theme. Some were created by me, while others were sourced from various platforms.
+A curated collection of wallpapers colorized to match the OneDark GTK theme. \
+Some created by me 🤗, others sourced from various platforms.
 
 ## Color Reference
 I'm using the color palette from [joshdick's onedark.vim repo](https://github.com/joshdick/onedark.vim) as I believe it best represents OneDark:
 ![OneDark Color Reference](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark-reference.png)
-Note that not all colors are 100% accurate, as some ImageGoNord-processed images contain colors outside the OneDark scheme. With a fully customized setup, this shouldn't be too noticeable.
-
-For darker tones in complex wallpapers that I modify manually, I use the [Atom One Dark 2 Color Palette grey colors](https://www.color-hex.com/color-palette/1017620). These greys feel most faithful to OneDark:
-
 ![OneDark Grey Reference](https://github.com/Narmis-E/onedark-wallpapers/blob/main/onedark_grey_ref.png)
-
-- For even lighter colors than #abb2bf, I use #c8ccd4.
+For darker tones I use [Atom One Dark 2 grey colors](https://www.color-hex.com/color-palette/1017620). These greys feel most faithful to OneDark ^
 
 Here's an example of OneDark applied to a non-OneDark image (processed with ImageGoNord):
-
-![Before and After](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.jpg)
+![Before and After](https://github.com/Narmis-E/onedark-wallpapers/blob/main/before-after.png)
+Notice how it retains a lot of detail, while subtly shifting the coloursheme to a usable, onedarked image. 
+For more minimal wallpapers with less colour, there are far greater changes:
 
 ## Sources
 Wallpapers featured in this collection come from:
@@ -37,4 +34,4 @@ If you're the rightful creator of any wallpaper and wish to have it removed, ple
 
 ## Todo
 - [ ] Fix the [showcase gallery](./showcase.md)
-- [ ] Add more wallpapers
+- [ ] Add more wallpapers!!!
