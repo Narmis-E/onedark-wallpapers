@@ -31,9 +31,6 @@ Many wallpapers were processed through the OneDark filter of [ImageGoNord](https
 Have OneDark-colorized wallpapers you'd like to contribute? Let me know!
 Alternatively, if you'd like me to create a custom wallpaper (minimal style, OS-specific, WM-themed, etc.), feel free to open an issue with your request.
 
-## Removal Requests
-If you're the rightful creator of any wallpaper and wish to have it removed, please open an issue and I'll take it down promptly.
-
 ## Todo
 - [ ] Fix the [showcase gallery](./showcase.md) (gimp bg colour does not take the exact hex value. Please make a PR if you know how to fix this!!!)
 - [ ] Add more wallpapers!!!
@@ -42,3 +39,6 @@ If you're the rightful creator of any wallpaper and wish to have it removed, ple
 
 ### Stargazers 🤩
 [![Stargazers over time](https://starchart.cc/Narmis-E/onedark-wallpapers.svg?variant=adaptive)](https://starchart.cc/Narmis-E/onedark-wallpapers)
+
+### Removal Requests
+If you're the rightful creator of any wallpaper and wish to have it removed, please open an issue and I'll take it down promptly.
