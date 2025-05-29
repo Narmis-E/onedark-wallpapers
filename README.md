@@ -32,8 +32,10 @@ Have OneDark-colorized wallpapers you'd like to contribute? Let me know!
 Alternatively, if you'd like me to create a custom wallpaper (minimal style, OS-specific, WM-themed, etc.), feel free to open an issue with your request.
 
 ## Todo
-- [ ] Fix the [showcase gallery](./showcase.md) (gimp bg colour does not take the exact hex value. Please make a PR if you know how to fix this!!!)
+- [ ] Fix the [showcase gallery](./showcase.md)
+- [ ] Fix all minimal/os/program walls (gimp bg colour does not take the exact hex value. Please make a PR if you know how to fix this!!!)
 - [ ] Add more wallpapers!!!
+- [ ] Replace IGN with [tint](https://github.com/ashish0kumar/tint)
 
 <hr>
 
