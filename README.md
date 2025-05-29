@@ -35,7 +35,7 @@ Alternatively, if you'd like me to create a custom wallpaper (minimal style, OS-
 If you're the rightful creator of any wallpaper and wish to have it removed, please open an issue and I'll take it down promptly.
 
 ## Todo
-- [ ] Fix the [showcase gallery](./showcase.md)
+- [ ] Fix the [showcase gallery](./showcase.md) (gimp bg colour does not take the exact hex value. Please make a PR if you know how to fix this!!!)
 - [ ] Add more wallpapers!!!
 
 <hr>
